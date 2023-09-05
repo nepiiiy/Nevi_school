@@ -1,0 +1,16 @@
+.footer{
+    border-top: 5px solid #ffab1f;
+    background-color: #294a70;
+    background-size: 100%;
+}
+  .footer1{
+    border-right: 1px dashed #939393;
+    height: 400px;
+  }
+  a.link{
+    color: #e1e1e1;
+    text-decoration: none;
+  }
+  a.link:hover{
+    color: #9c9a9a;
+  }
